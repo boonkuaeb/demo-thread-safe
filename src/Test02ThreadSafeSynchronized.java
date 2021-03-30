@@ -1,5 +1,5 @@
 
-public class Test02ThreadSafe {
+public class Test02ThreadSafeSynchronized {
 
     public static void main(String[] args) throws Exception {
         Counter c = new Counter();
